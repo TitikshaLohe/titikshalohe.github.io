@@ -8,17 +8,19 @@
    I am continuously upskilling myself for this data-driven world. I also gained experience through virtual Internship programmes 
    offered by TATA iQ, currently working on a project by ‘iNeuron’. I am a self-learner and adaptive to learn new things. 
    As I am a fresher it would be great, to experience the real challenges of the corporate world and understand how things work. 
-   My Resume in [Excel](https://github.com/TitikshaLohe/portfolio.github.io/files/13681727/Data.Analyst.Resume.docx)
+   - My Resume in [Excel](https://github.com/TitikshaLohe/portfolio.github.io/files/13681727/Data.Analyst.Resume.docx)
    
 ## SKILLS
-  ### Programming: 
-  Python, SQL, Excel 
-  ### Visualization: 
-  Power BI, Excel Charts, Jupyter Notebook
-  ### Database: 
-  SQL Server
-  ### Soft Skills: 
-  Flexible, Teamwork, Attention to detail, Time management, Self-Motivated, Analytical skills, Presentation skills
+  **Programming**:Python, SQL, Excel 
+  **Visualization**:Power BI, Excel Charts, Jupyter Notebook
+  **Database**:SQL Server
+  **Soft Skills**:Flexible, Teamwork, Attention to detail, Time management, Self-Motivated, Analytical skills, Presentation skills
+
+## PORTFOLIO PROJECTS
+### Budget Sales Analysis
+**Description**:This project was a part of the iNeuron Virtual Internship. The project focused on generating insights from budget sales analysis in the retail and sales domain. Imported Excel data to Power BI and performed data transformation in Power query. Built a dashboard in Power BI from scratch to provide insights and performed analysis, producing quantitative visualizations to help manage performance.
+**Tools Used**: Power BI, MS Excel
+**Domain**: Retail and Sales
 
 
  
