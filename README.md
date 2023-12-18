@@ -29,7 +29,7 @@
 
 **Domain**: Retail and Sales
 
-### Amazon Sales Analysis ####[Project Link](https://github.com/TitikshaLohe/AmazonSalesDataAnalysis)
+### Amazon Sales Analysis #### [Project Link](https://github.com/TitikshaLohe/AmazonSalesDataAnalysis)
 **Description**:The objective was to create a report on Sales trends to understand the factors directly affecting the sales. Analysed dataset in Power BI, performed data transformation and built a dashboard. Different analyses were performed to get the key insights from this data based on which business decisions will be taken.
 
 **Tools Used**: Power BI, MS Excel
@@ -43,7 +43,7 @@
 
 **Domain**:Hospitality
 
-### Vrinda Garments Store Analysis ####[Project Link](https://github.com/TitikshaLohe/Vrinda-Garment-Analysis) 
+### Vrinda Garments Store Analysis #### [Project Link](https://github.com/TitikshaLohe/Vrinda-Garment-Analysis) 
 **Description**:Vrinda Garments, an E-commerce business, wants to create an annual sales report to understand its customers and grow more sales in the future. In this project, I used a company store dataset, cleaned the data in Excel, created some pivot tables of interesting insights, and used the pivot tables to create a dashboard.
 Valuable insights were created to make informed decisions about business strategies and understand the dynamics of sales patterns.
 
@@ -51,7 +51,7 @@ Valuable insights were created to make informed decisions about business strateg
 
 **Domain**:E-commerce
 
-### Bike Sales Analysis ####[Project Link](https://github.com/TitikshaLohe/Bike-Sales-Analysis-Excel-Dashboard)
+### Bike Sales Analysis #### [Project Link](https://github.com/TitikshaLohe/Bike-Sales-Analysis-Excel-Dashboard)
 **Description**:The objective was to understand how data analysis is done using an Excel spreadsheet. I used a dataset available on GitHub, cleaned it in Excel, created some pivot tables of interesting insights, and used them to create a dashboard. A visual report was created with an insight into bike sales.
 
 **Tools Used**: MS Excel
