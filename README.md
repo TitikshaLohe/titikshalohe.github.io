@@ -43,6 +43,13 @@
 
 **Domain**:Hospitality
 
+### [HR Data Analysis](https://github.com/TitikshaLohe/HR-Data-Analysis/tree/main)
+**Description**: The HR team from Atliq wanted to track Employee data such as attendance, performance and leaves. This project was part of resume projects for beginners provided by Codebasics. The main objective of this project was to learn how Power BI works. 
+
+**Tools Used**: MS Excel, Power BI
+
+**Domain**:HR 
+
 ### [Vrinda Garments Store Analysis](https://github.com/TitikshaLohe/Vrinda-Garment-Analysis) 
 **Description**:Vrinda Garments, an E-commerce business, wants to create an annual sales report to understand its customers and grow more sales in the future. In this project, I used a company store dataset, cleaned the data in Excel, created some pivot tables of interesting insights, and used the pivot tables to create a dashboard.
 Valuable insights were created to make informed decisions about business strategies and understand the dynamics of sales patterns.
