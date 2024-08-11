@@ -1,4 +1,5 @@
-# Portfolio
+# Data Analyst Portfolio
+
 ## ABOUT ME
    Hi I'm Titiksha Lohe. I have a technical background and hold a Masters degree in Finance. 
    I have had a professional career of 5 years in different roles. I am a fresher in the data field, with a strong passion for data. 
