@@ -1,25 +1,26 @@
 # Data Analyst Portfolio
 
 ## ABOUT ME
-   Hi I'm Titiksha Lohe. I have a technical background and hold a Masters degree in Finance. 
+   Hi I'm Titiksha Lohe. Data Research Analyst with a Passion for Insight-Driven Solutions
+   I have a technical background and hold a Masters degree in Finance. 
    I have had a professional career of 5 years in different roles. I am a fresher in the data field, with a strong passion for data. 
    I have developed skills in technical tools like Excel, SQL, Power BI, and Python. 
-   I have acquired certification in Data Science from IITM and Intellipaat (2022 - 2023).
    
-   I am continuously upskilling myself for this data-driven world. I also gained experience through virtual Internship programmes 
-   offered by TATA iQ, currently working on a project by ‘iNeuron’. I am a self-learner and adaptive to learn new things. 
-   As I am a fresher it would be great, to experience the real challenges of the corporate world and understand how things work. 
-   
-   My Resume in [Excel](Data Analyst Resume.docx)
+   I am a dedicated data research analyst with hands-on experience in data extraction, cleaning, and transformation to provide actionable 
+   business insights. Proficient in tools like Power BI, SQL, and Excel, to present data-driven insights that support decision-making. 
+   Strong analytical skills, attention to detail, and a deep commitment to solving real-world problems. 
+
+   I am passionate about using data to solve real-world problems and make informed decisions. I find the process of exploring 
+   data and extracting meaningful insights fascinating. I am eager to contribute my technical expertise and industry knowledge to drive 
+   impactful, data-led solutions.
+   My Resume in [Excel](Titiksha_Resume_DataAnalyst.docx)
    
 ## SKILLS
-  **Programming**:Python, SQL, Excel 
-  
-  **Visualization**:Power BI, Excel Charts, Jupyter Notebook
-  
-  **Database**:SQL Server
-  
-  **Soft Skills**:Flexible, Teamwork, Attention to detail, Time management, Self-Motivated, Analytical skills, Presentation skills
+  **Programming & Databases**: SQL, SQL Server 
+  **Data Visualization**:Power BI, Excel Charts 
+  **Other Tools**: Excel (Pivot Tables, Data Analysis)  
+  **Soft Skills**:Flexible, Teamwork, Attention to detail, 
+                  Time management, Self-Motivated, Analytical skills, Presentation skills
 
 ## PORTFOLIO PROJECTS
 ### Budget Sales Analysis
