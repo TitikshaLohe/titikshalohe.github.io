@@ -1,7 +1,8 @@
 # Data Analyst Portfolio
 
 ## ABOUT ME
-   Hi I'm Titiksha Lohe. Data Research Analyst with a Passion for Insight-Driven Solutions
+   Hi I'm Titiksha Lohe. 
+   Data Research Analyst with a Passion for Insight-Driven Solutions.
    I have a technical background and hold a Masters degree in Finance. 
    I have had a professional career of 5 years in different roles. I am a fresher in the data field, with a strong passion for data. 
    I have developed skills in technical tools like Excel, SQL, Power BI, and Python. 
